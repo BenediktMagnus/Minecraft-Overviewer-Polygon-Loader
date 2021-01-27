@@ -1,6 +1,6 @@
 # Minecraft Overviewer Polygon Loader
 
-This allows loading markers in polygonial forms, e.g. for rendering player properties, from a simple JSON format.
+This allows loading of markers in polygonial forms, e.g. for rendering player properties, from a simple JSON format.
 
 Because an image says more than thousand words, heres the result for the [example](example):
 
