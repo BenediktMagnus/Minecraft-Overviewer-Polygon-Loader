@@ -9,6 +9,7 @@ class PolygonLoader:
     Load polygons from a JSON file for using them as markers in Minecraft Overviewer.
     """
 
+    fill = True
     colour = '#FF0000'
     weight = 5
     defaultY = 64
@@ -60,7 +61,7 @@ class PolygonLoader:
             'text': entry['name'],
             'color': self.colour,
             'weight': self.weight,
-            'fill': True,
+            'fill': self.fill,
             'polygon': entry['polygon']
         }
 
