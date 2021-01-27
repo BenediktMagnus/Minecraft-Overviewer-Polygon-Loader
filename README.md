@@ -2,7 +2,7 @@
 
 This allows loading of markers in polygonial forms, e.g. for rendering player properties, from a simple JSON format.
 
-Because an image says more than thousand words, heres the result for the [example](example):
+Because an image says more than thousand words, here is the result for the [example](example):
 
 ![Example Image](example/example.png)
 
