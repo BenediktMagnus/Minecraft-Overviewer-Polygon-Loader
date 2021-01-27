@@ -2,6 +2,10 @@
 
 This allows loading markers in polygonial forms, e.g. for rendering player properties, from a simple JSON format.
 
+Because an image says more than thousand words, heres the result for the [example](example):
+
+![Example Image](example/example.png)
+
 The polygons get their own overlay, thus can be enabled and disabled by the viewer.
 
 ## Config
