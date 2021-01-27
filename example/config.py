@@ -17,7 +17,7 @@ renders['normalrender'] = {
     'manualpois': polygonLoader.getPois(),
     'markers': [
         polygonLoader.getMarker()
-    ],
+    ]
 }
 
 outputdir = '/home/username/mcmap'
